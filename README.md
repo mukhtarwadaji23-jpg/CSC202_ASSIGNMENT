@@ -37,3 +37,5 @@ python app.py
 - Log: Refactored main loop for improved readability
 
 - Log: Added error handling for invalid user inputs
+
+- Log: Updated UI templates with basic styling
