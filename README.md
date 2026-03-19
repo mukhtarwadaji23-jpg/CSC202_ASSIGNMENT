@@ -39,3 +39,5 @@ python app.py
 - Log: Added error handling for invalid user inputs
 
 - Log: Updated UI templates with basic styling
+
+- Log: Fixed minor bug in data indexing logic
