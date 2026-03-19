@@ -25,3 +25,5 @@ python app.py
 - Log: Developed data input validation logic
 
 - Log: Implemented basic Insertion functionality
+
+- Log: Added Search algorithm for data retrieval
