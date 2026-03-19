@@ -47,3 +47,5 @@ python app.py
 - Log: Added docstrings and internal code comments
 
 - Log: Conducted final unit testing of core features
+
+- Log: Cleaned up unused variables and imports
