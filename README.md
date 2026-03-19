@@ -31,3 +31,5 @@ python app.py
 - Log: Optimized search logic for better performance
 
 - Log: Implemented Deletion method for records
+
+- Log: Integrated basic Sorting algorithm
