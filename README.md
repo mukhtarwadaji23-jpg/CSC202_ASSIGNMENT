@@ -41,3 +41,5 @@ python app.py
 - Log: Updated UI templates with basic styling
 
 - Log: Fixed minor bug in data indexing logic
+
+- Log: Enhanced terminal output formatting
