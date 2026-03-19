@@ -19,3 +19,5 @@ python app.py
 - Log: Defined core Data Structure classes
 
 - Log: Implemented class constructor and attributes
+
+- Log: Added string representation methods for debugging
