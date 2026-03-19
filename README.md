@@ -17,3 +17,5 @@ python app.py
 - Log: Added project documentation and requirements
 
 - Log: Defined core Data Structure classes
+
+- Log: Implemented class constructor and attributes
