@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clinic Queue</title>
+</head>
+<body>
+
+<h1>Clinic Queue Manager</h1>
+
+<form action="/add" method="post">
+    <input type="text" name="name" placeholder="Enter name" required>
+    <button type="submit">Add Patient</button>
+</form>
+
+<h2>Waiting List</h2>
+<ul>
+{% for p in patients %}
+<li>{{ p.get_details() }}</li>
+{% else %}
+<li>No patients</li>
+{% endfor %}
+</ul>
+
+<a href="/next">
+<button>Call Next Patient</button>
+</a>
+
+<h3>Total Seen Today: {{ total }}</h3>
+
+</body>
+</html>
