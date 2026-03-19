@@ -45,3 +45,5 @@ python app.py
 - Log: Enhanced terminal output formatting
 
 - Log: Added docstrings and internal code comments
+
+- Log: Conducted final unit testing of core features
