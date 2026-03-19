@@ -13,3 +13,5 @@ A Flask web app to manage a clinic queue.
 pip install flask  
 python app.py
 - Log: Initial project structure and repository setup
+
+- Log: Added project documentation and requirements
