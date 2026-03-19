@@ -33,3 +33,5 @@ python app.py
 - Log: Implemented Deletion method for records
 
 - Log: Integrated basic Sorting algorithm
+
+- Log: Refactored main loop for improved readability
