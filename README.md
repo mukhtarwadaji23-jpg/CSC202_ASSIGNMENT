@@ -43,3 +43,5 @@ python app.py
 - Log: Fixed minor bug in data indexing logic
 
 - Log: Enhanced terminal output formatting
+
+- Log: Added docstrings and internal code comments
