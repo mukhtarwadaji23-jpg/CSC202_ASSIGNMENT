@@ -49,3 +49,5 @@ python app.py
 - Log: Conducted final unit testing of core features
 
 - Log: Cleaned up unused variables and imports
+
+- Log: Final deployment-ready version of assignment
