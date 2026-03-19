@@ -21,3 +21,5 @@ python app.py
 - Log: Implemented class constructor and attributes
 
 - Log: Added string representation methods for debugging
+
+- Log: Developed data input validation logic
