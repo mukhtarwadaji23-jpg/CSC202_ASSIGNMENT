@@ -27,3 +27,5 @@ python app.py
 - Log: Implemented basic Insertion functionality
 
 - Log: Added Search algorithm for data retrieval
+
+- Log: Optimized search logic for better performance
