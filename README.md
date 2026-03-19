@@ -29,3 +29,5 @@ python app.py
 - Log: Added Search algorithm for data retrieval
 
 - Log: Optimized search logic for better performance
+
+- Log: Implemented Deletion method for records
