@@ -23,3 +23,5 @@ python app.py
 - Log: Added string representation methods for debugging
 
 - Log: Developed data input validation logic
+
+- Log: Implemented basic Insertion functionality
