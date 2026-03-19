@@ -15,3 +15,5 @@ python app.py
 - Log: Initial project structure and repository setup
 
 - Log: Added project documentation and requirements
+
+- Log: Defined core Data Structure classes
