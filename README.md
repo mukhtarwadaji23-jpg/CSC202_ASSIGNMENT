@@ -35,3 +35,5 @@ python app.py
 - Log: Integrated basic Sorting algorithm
 
 - Log: Refactored main loop for improved readability
+
+- Log: Added error handling for invalid user inputs
